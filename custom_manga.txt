@@ -1,0 +1,5 @@
+PROCESS-NAME,app.mihon
+DOMAIN-REGEX,.*\.twmanga\.com
+DOMAIN-REGEX,.*\.baozimh\.one
+DOMAIN-REGEX,.*\.baozimh\.com
+DOMAIN-REGEX,.*\.g-mh\.online

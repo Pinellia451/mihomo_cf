@@ -1,0 +1,30 @@
++.clash.razord.top
++.yacd.haishan.me
++.cn.app.xiaomi.net
+immich.212676.xyz
++.xmflv.cc
++.zhihuishu.com
++.doubao.com
+
+ip.sb
++.ip.sb
+ipip.info
++.ipip.info
++.ipip.net
+
++.makerworld.com
+# gh-加速
+secure-raw.212676.xyz
+
++.ai-pixel.online
+api.2116886.xyz
+# 博客
++.pinellia.uk
+pinellia.uk
+
+#icloud邮件
++.mail.me.com
+
+#国内icloud
++.icloud.com.cn
+
